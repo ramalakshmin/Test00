@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="Gss.Oasis.API.CB.Server.Services.CBService" CodeBehind="Gss.Oasis.API.CB.Server.Services.CBService.vb" %>
